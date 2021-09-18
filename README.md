@@ -1,3 +1,4 @@
 # Snake_py
 
-Clone of the classic Nokia snake game 
+Clone of the classic snake game 
+followed tutorial on Making Games with Python & Pygame by Al Sweigart
